@@ -34,6 +34,6 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/GavinReynolds/todo-list.git
    cd todo-list
    ```
